@@ -1,4 +1,4 @@
-![Banner Profil](https://github.com/rahman9957/rahman9957/blob/main/Rahman.png)
+![Banner Profil](https://github.com/rahman9957/rahman9957/blob/main/banner.png)
 
 
 <h1 align="center">Hi there, I'm Juli Abdurahman 👋</h1>
