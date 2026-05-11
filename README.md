@@ -23,7 +23,6 @@
 
 ---
 
-### 📊 Statistik GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahman9957&show_icons=true&theme=tokyonight&locale=id" alt="Statistik GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahman9957&layout=compact&theme=tokyonight&locale=id" alt="Bahasa Terpopuler" />
@@ -31,28 +30,22 @@
 
 ---
 
-### 🏆 Trofi GitHub
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahman9957&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Trofi GitHub" />
 </p>
 
 ---
 
-### 📈 Grafik Aktivitas
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahman9957&theme=tokyo-night&hide_border=true&color=00D1FF" width="100%" />
 </p>
 
 ---
 
-### 🐍 Ular Kontribusi
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahman9957/rahman9957/output/github-contribution-grid-snake.svg" alt="Animasi Ular" />
-</p>
 
 ---
 
-### 💻 Lingkungan OS
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-217346?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![MATE](https://img.shields.io/badge/Desktop-MATE-87A556?style=for-the-badge&logo=linux&logoColor=white)
 
@@ -60,7 +53,6 @@
 
 ---
 
-### 📁 Proyek Unggulan
 <p align="center">
   <table>
     <tr>
@@ -84,20 +76,15 @@
 
 ---
 
-### 📫 Hubungi Saya
 <p align="left">
   <a href="https://github.com/rahman9957" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/rahman9957" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:juliabdurahman@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:juliabdurahman0@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/rahman9957" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 💡 Kutipan Hari Ini
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
 
 ---
 
@@ -106,5 +93,5 @@
 </p>
 
 <p align="center">
-  Dibuat dengan ❤️ oleh <b>Juli Abdurahman</b>
+   by <b>Juli Abdurahman</b>
 </p>
