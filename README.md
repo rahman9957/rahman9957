@@ -5,7 +5,6 @@
 
 ---
 
-### 🚀 Tentang Saya
 - 🎓 Mahasiswa aktif di **STIKOM Banyuwangi**
 - 💻 **Perangkat Utama:** Linux Mint MATE Edition
 - 🎨 Fokus pada **Fullstack Development** dan **Seni Visual**
@@ -14,7 +13,6 @@
 
 ---
 
-### 🛠️ Teknologi & Alat
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mysql,php,laravel,linux,mint,figma&perline=9" />
@@ -22,11 +20,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahman9957&show_icons=true&theme=tokyonight&locale=id" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahman9957&layout=compact&theme=tokyonight&locale=id" alt="Bahasa Terpopuler" />
-</p>
 
 ---
 
