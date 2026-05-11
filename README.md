@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hello, I'm Juli Abdurahman!
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full+Stack+Beginner;Multimedia+Enthusiast;Graphic+Designer;Video+Editor;Photographer" alt="Typing SVG" />
@@ -113,4 +112,3 @@
 <p align="center">
   Made with ❤️ by <b>Juli Abdurahman</b>
 </p>
-```
